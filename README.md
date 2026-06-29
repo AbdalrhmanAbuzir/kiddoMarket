@@ -5,7 +5,7 @@
 [![Payment Gateway](https://img.shields.io/badge/Payment_Gateway-Stripe-blueviolet.svg)](https://stripe.com/)
 [![ORM](https://img.shields.io/badge/ORM-EF_Core-green.svg)](#)
 
-TinyTots is a comprehensive, production-ready full-stack e-commerce web application dedicated to baby essentials. Built using the **ASP.NET Core MVC** architectural pattern, the platform delivers a secure, seamless, and scalable shopping experience—complete with an integrated dynamic shopping cart, structured order management, and secure real-time online checkout powered by **Stripe**.
+KiddoMarket is a comprehensive, production-ready full-stack e-commerce web application dedicated to baby essentials. Built using the **ASP.NET Core MVC** architectural pattern, the platform delivers a secure, seamless, and scalable shopping experience—complete with an integrated dynamic shopping cart, structured order management, and secure real-time online checkout powered by **Stripe**.
 
 ---
 
